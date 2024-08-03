@@ -1,0 +1,1 @@
+C:\Users\soare\source\repos\ComApp\comApp\ComApp.csproj;x64
