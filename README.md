@@ -2,6 +2,9 @@
 
 [![comapplogo.png](https://i.postimg.cc/KjGpXgmb/comapplogo.png)](https://postimg.cc/xJZ3M8kp)
 
+
+
+
 **ComApp** is designed to bring people together, fostering real connections within local communities.
 
 In a world where social media has often made us more isolated than connected, *ComApp* aims to bridge the gap. We've noticed how modern communication often lacks the personal touch, leading to a disconnect with those around us, even in our own neighborhoods. *ComApp* is here to change that.
